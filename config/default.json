@@ -4,7 +4,6 @@
     "url": "mongodb://localhost/openhim",
     "atnaUrl": "mongodb://localhost/openhim",
     "connectionOptions": {},
-    "openHIMApiReadPreference": "primaryPreferred",
     "openHIMApiWriteConcern": 1,
     "openHIMApiReadConcern": "local"
   },
